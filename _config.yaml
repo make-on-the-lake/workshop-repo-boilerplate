@@ -1,0 +1,13 @@
+safe: true
+exclude:
+  - /vendor
+  - /.bundle
+  - /Rakefile
+  - /lib
+  - /hooks
+motlurl: http://www.meetup.com/Make-on-the-Lake/
+
+baseurl: /workshop-repo-boilerplate
+repourl:
+gaq_id:
+workshop_name:
